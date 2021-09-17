@@ -1,0 +1,80 @@
+1630906891682	geckodriver	INFO	Listening on 127.0.0.1:52381
+1630906894717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofileClZ9ZL"
+1630906895543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofileClZ9ZL\\search.json.mozlz4", (void 0)))
+1630906905945	Marionette	INFO	Listening on port 53447
+1630906906475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630907158574	Marionette	INFO	Stopped listening on port 53447
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630910913204	geckodriver	INFO	Listening on 127.0.0.1:60753
+1630910916330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofileOsbgle"
+1630910921117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofileOsbgle\\search.json.mozlz4", (void 0)))
+1630910930585	Marionette	INFO	Listening on port 60773
+1630910930982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630910939068	Marionette	INFO	Stopped listening on port 60773
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630947189249	geckodriver	INFO	Listening on 127.0.0.1:50322
+1630947192310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilelvli4b"
+1630947193644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilelvli4b\\search.json.mozlz4", (void 0)))
+1630947199544	Marionette	INFO	Listening on port 57126
+1630947199838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630947201188	Marionette	INFO	Stopped listening on port 57126
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\cyril\AppData\Local\Temp\rust_mozprofilelvli4b\protections.sqlite
+1631780219431	geckodriver	INFO	Listening on 127.0.0.1:56772
+1631780222508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofileu2veOp"
+1631780223980	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofileu2veOp\\search.json.mozlz4", (void 0)))
+1631780228868	Marionette	INFO	Listening on port 56780
+1631780228982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631780230069	Marionette	INFO	Stopped listening on port 56780
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\cyril\AppData\Local\Temp\rust_mozprofileu2veOp\protections.sqlite
+1631780234222	geckodriver	INFO	Listening on 127.0.0.1:56818
+1631780237291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilezERHVj"
+1631780238128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilezERHVj\\search.json.mozlz4", (void 0)))
+1631780241768	Marionette	INFO	Listening on port 56826
+1631780242106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631780243782	Marionette	INFO	Stopped listening on port 56826
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390132,name=PContent::Msg_ReportServiceWorkerShutdownProgress) Channel closing: too late to send/recv, messages will be lost
+
+1631859961888	geckodriver	INFO	Listening on 127.0.0.1:50265
+1631859965009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilej8gIUK"
+1631859966712	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilej8g1631859972552	mozrunner::runner	INFO	R1631859972755	Marionette	INFO	Listening on port 51631
+1631859973081	RemoteAgent	WARN	TLS certificaconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilep9GYVv\\search.json.mozlz4", (void 0)))
+1631859992967	Marionette	INFO	Listening on port 56250
+1631859993038	RemoteAgent	WA1631859993547	Marionette	INFO	Stopped listening on port 56231631859994326	Marionette	INFO	Stopped listening on port 56250
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "ContentParent: id=1d48edba800"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "ContentParent: id=1d4806b2800"
+[Parent 27640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+e://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\cyril\AppData\Local\Temp\rust_mozprofilehIskzB\protections.sqlite
+1631860413827	geckodriver	INFO	Listening on 127.0.0.1:63431
+1631860416903	mozrunner::runner	INFO	Running command: "C:\\P1631860417223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\1631860418451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofileVD3ItK\\search.json.mozlz4", (void 0)))
+1631860442627	Marionette	INFO	Listening on port 51390
+1631860442666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631860445444	Marionette	INFO	Stopped listening on port 51390
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
