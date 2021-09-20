@@ -78,3 +78,113 @@ JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILU
 
 ###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
 
+1631885692253	geckodriver	INFO	Listening on 127.0.0.1:52212
+1631885695398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofile224YDg"
+1631885697457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilezzcvFv\\search.json.mozlz4", (void 0)))
+1631885722338	Marionette	INFO	Listening on port 52257
+1631885722405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631885733509	Marionette	INFO	Stopped listening on port 52253
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\cyril\AppData\Local\Temp\rust_mozprofile224YDg\protections.sqlite
+1632029053440	geckodriver	INFO	Listening on 127.0.0.1:58127
+1632029056499	mozrunner::runner	INFO	Running command: "C:\\P1632029057022	mozrunner::runner	INFO	Running command: "C:\\P1632029057423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firef1632029058100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Cou1632029072951	Marionette	INFO	Listening on port 51910
+1632029076554	RemoteAgent	WARN	TLS certificate errors will b163201632029076945	Marionett1632029080700	Marionette	INFO	Stopped listening on port 51911632029089297	Marionette	INFO	Stopped listening on port 51914
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, m1632029093219	Marionette	INFO	Stopped listening on port 49849
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pt error: resource://gre/modules/NewTabUtils.jsm, line 1378: TypeError: conn is undefined
+1632071651427	geckodriver	INFO	Listening on 127.0.0.1:61928
+1632071654482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofileurBlAL"
+*** You are running in headless mode.
+1632071655922	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilegUrbRD\\search.json.mozlz4", (void 0)))
+1632071664122	Marionette	INFO	Listening on port 61965
+1632071664204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632071668930	Marionette	INFO	Stopped listening on port 61966
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\cyril\AppData\Local\Temp\rust_mozprofileIFK7KG\protections.sqlite
+sg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\cyril\AppData\Local\Temp\rust_mozprofileurBlAL\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+ould not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2536\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1632108964207	geckodriver	INFO	Listening on 127.0.0.1:64401
+1632108967245	mozrunner::runner	INFO	Running command: "C:\\P1632108970028	mozrunner::runner	INFO	Running command: "C:\\P1632108970244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\*** You are running in headless mode.
+1632108974486	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cyril\\AppData\\Local\\Temp\\rust_mozprofilebYD5XZ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Abor1632108991487	Marionette	INFO	Listening on port 51052
+1632108991660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632108993744	Marionette	INFO	Stopped listening on port 51052
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERRO1632108994577	Marionette	INFO	Stopped listening on pJavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\cyril\AppData\Local\Temp\rust_mozprofileygVZIM\protections.sql
+###!!! [Parent][RunMessage] Error: Channel closing: too laJavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\cyril\AppData\Local\Temp\rust_mozprofilezdpVTM\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ta\Local\Temp\rust_mozprofileaZ8hlA\protections.sqlite
+1632110885114	geckodriver	INFO	Listening on 127.0.0.1:60718
+1632110888160	mozrunner::runner	INFO	Running command: "C:\\P1632110888373	mozrunner::runner	INFO	Running command: "C:\\P1632110888379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.e*** You are running in headless mode.
+1632110890586	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file aconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Cou1632110913190	Marionette	INFO	Listening on port 52522
+1632110913476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632110915619	Marionette	INFO	Stopped listening on port 52522
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

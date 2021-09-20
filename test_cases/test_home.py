@@ -1,3 +1,5 @@
+import pytest
+
 from pages.home_page import Home_Page
 from pages.login_page import Login_Page
 from utilities.custom_logger import Generate_Log
@@ -9,6 +11,9 @@ class Test_Home:
     password = Read_Config.getPassword()
     logger = Generate_Log.generate_log()
 
+    @pytest.mark.order(0)
+    @pytest.mark.smoke
+    @pytest.mark.regression
     def test_verify_products_heading_after_home_page_loading(self, setup):
         self.logger.info("starting test case test_verify_products_heading_after_home_page_loading")
         self.driver = setup
@@ -20,6 +25,8 @@ class Test_Home:
         assert self.hp.verify_products_heading_is_dislayed() == True
         self.logger.info("ending test case test_verify_products_heading_after_home_page_loading")
 
+    @pytest.mark.order(5)
+    @pytest.mark.regression
     def test_verify_your_cart_link_after_home_page_loading(self, setup):
         self.logger.info("starting test case test_verify_your_cart_link_after_home_page_loading")
         self.driver = setup

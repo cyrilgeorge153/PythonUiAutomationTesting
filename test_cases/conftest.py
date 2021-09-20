@@ -1,10 +1,11 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import pytest
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
-
 from utilities.read_properties import Read_Config
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
 
 aut_url = Read_Config.getApplicationURL()
 
@@ -17,6 +18,14 @@ def setup(browser):
         driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
     elif browser == 'edge':
         driver = webdriver.Edge(EdgeChromiumDriverManager().install())
+    elif browser == 'chromeheadless':
+        options = Options()
+        options.headless = True
+        driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+    elif browser == 'firefoxheadless':
+        options = FirefoxOptions()
+        options.add_argument("--headless")
+        driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
     else:
         driver = webdriver.Chrome(ChromeDriverManager().install())
 
