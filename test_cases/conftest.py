@@ -1,3 +1,4 @@
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
@@ -6,6 +7,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from utilities.read_properties import Read_Config
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
+
 
 aut_url = Read_Config.getApplicationURL()
 

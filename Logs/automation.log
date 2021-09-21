@@ -1672,3 +1672,116 @@
 09/20/2021 09:40:27 AM: INFO: ending test case test_login_button_is_displayed
 09/20/2021 09:40:28 AM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
 09/20/2021 09:40:28 AM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+09/20/2021 10:01:21 AM: INFO: 
+
+09/20/2021 10:01:21 AM: INFO: 
+
+09/20/2021 10:01:21 AM: INFO: 
+
+09/20/2021 10:01:21 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:01:21 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:01:21 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:01:21 AM: INFO: 
+
+09/20/2021 10:01:21 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:01:21 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:01:21 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:01:21 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:01:21 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:01:21 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:01:21 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:01:21 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:01:21 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:01:21 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:01:21 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:01:22 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:01:22 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:01:22 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:01:22 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:01:22 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:01:28 AM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+09/20/2021 10:01:28 AM: INFO: starting test case test_login_page_loading
+09/20/2021 10:01:28 AM: INFO: ending test case test_login_page_loading
+09/20/2021 10:01:29 AM: INFO: starting test case test_swag_logo_is_displayed
+09/20/2021 10:01:29 AM: INFO: ending test case test_swag_logo_is_displayed
+09/20/2021 10:01:29 AM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+09/20/2021 10:01:29 AM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+09/20/2021 10:01:30 AM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+09/20/2021 10:01:30 AM: INFO: starting test case test_login_button_is_displayed
+09/20/2021 10:01:30 AM: INFO: ending test case test_login_button_is_displayed
+09/20/2021 10:03:35 AM: INFO: 
+
+09/20/2021 10:03:35 AM: INFO: 
+
+09/20/2021 10:03:35 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:03:35 AM: INFO: 
+
+09/20/2021 10:03:35 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:03:35 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:03:35 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:03:35 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:03:35 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:03:35 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:03:35 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:03:35 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:03:35 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:03:35 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:03:35 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:03:35 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:03:35 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:03:35 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:03:36 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:03:36 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:03:36 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:03:36 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:03:36 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:03:42 AM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+09/20/2021 10:03:42 AM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+09/20/2021 10:03:42 AM: INFO: starting test case test_swag_logo_is_displayed
+09/20/2021 10:03:42 AM: INFO: starting test case test_login_button_is_displayed
+09/20/2021 10:03:43 AM: INFO: ending test case test_login_button_is_displayed
+09/20/2021 10:03:43 AM: INFO: ending test case test_swag_logo_is_displayed
+09/20/2021 10:03:43 AM: INFO: starting test case test_login_page_loading
+09/20/2021 10:03:43 AM: INFO: ending test case test_login_page_loading
+09/20/2021 10:03:44 AM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+09/20/2021 10:03:44 AM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+09/20/2021 10:07:07 AM: INFO: 
+
+09/20/2021 10:07:07 AM: INFO: 
+
+09/20/2021 10:07:07 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:07:07 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:07:07 AM: INFO: 
+
+09/20/2021 10:07:07 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:07:07 AM: INFO: 
+
+09/20/2021 10:07:07 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:07:07 AM: INFO: 
+
+09/20/2021 10:07:07 AM: INFO: ====== WebDriver manager ======
+09/20/2021 10:07:08 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:07:08 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:07:08 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:07:08 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:07:08 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:07:08 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:07:08 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:07:08 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:07:08 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:07:08 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:07:08 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:07:09 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:07:09 AM: INFO: Current google-chrome version is 93.0.4577
+09/20/2021 10:07:09 AM: INFO: Get LATEST driver version for 93.0.4577
+09/20/2021 10:07:09 AM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+09/20/2021 10:07:21 AM: INFO: starting test case test_login_button_is_displayed
+09/20/2021 10:07:22 AM: INFO: starting test case test_swag_logo_is_displayed
+09/20/2021 10:07:22 AM: INFO: ending test case test_login_button_is_displayed
+09/20/2021 10:07:23 AM: INFO: ending test case test_swag_logo_is_displayed
+09/20/2021 10:07:24 AM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+09/20/2021 10:07:24 AM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+09/20/2021 10:07:26 AM: INFO: starting test case test_login_page_loading
+09/20/2021 10:07:27 AM: INFO: ending test case test_login_page_loading
+09/20/2021 10:07:36 AM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+09/20/2021 10:07:36 AM: INFO: ending test case test_verify_products_heading_after_home_page_loading
