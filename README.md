@@ -2,7 +2,7 @@
 
 Ui tesing using python selenium and pytest framework.
 
-# Packaged needed to run the project
+# Packages needed to run the project
 
 pip install selenium
 
