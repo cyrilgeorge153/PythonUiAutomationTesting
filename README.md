@@ -42,4 +42,9 @@ pip install pytest-xdist
  
  `pytest -rA -v -m "regression" -n 5 --html=Reports\report.html test_cases --browser edge`
  
+ # Test execution gif
+ 
  # Reports:PythonUiAutomationTesting\Reports\report.html 
+ 
+ # Html report screenshot
+ 
