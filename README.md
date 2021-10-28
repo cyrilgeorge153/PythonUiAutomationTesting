@@ -14,6 +14,8 @@ pip install pytest-order
 
 pip install pytest-xdist
 
+pip install pytest-html
+
 # Prerequsite: Python version3+, Pycharm
 
 # Execution: Download project to local and open terminal or cmd and execute following commands one by one for respective browser
