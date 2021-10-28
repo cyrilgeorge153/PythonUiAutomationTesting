@@ -6,8 +6,6 @@ from utilities.custom_logger import Generate_Log
 
 
 class Test_Login:
-    username = Read_Config.getUseremail()
-    password = Read_Config.getPassword()
     logger = Generate_Log.generate_log()
 
     @pytest.mark.order(1)
