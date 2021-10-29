@@ -1,8 +1,0 @@
-[32mINFO    [0m WDM:logger.py:24 
-
-[32mINFO    [0m WDM:logger.py:24 ====== WebDriver manager ======
-[32mINFO    [0m WDM:logger.py:24 Current google-chrome version is 95.0.4638
-[32mINFO    [0m WDM:logger.py:24 Get LATEST driver version for 95.0.4638
-[32mINFO    [0m WDM:logger.py:24 Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
-[32mINFO    [0m root:test_home.py:30 starting test case test_verify_your_cart_link_after_home_page_loading
-[32mINFO    [0m root:test_home.py:38 ending test case test_verify_your_cart_link_after_home_page_loading
