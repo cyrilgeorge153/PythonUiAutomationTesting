@@ -2222,3 +2222,682 @@ er_home_page_loading
 10/29/2021 01:03:07 PM: INFO: ending test case test_login_button_is_displayed
 10/29/2021 01:03:09 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
 10/29/2021 01:03:09 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:16:58 PM: INFO: 
+
+10/29/2021 01:16:58 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:16:58 PM: INFO: 
+
+10/29/2021 01:16:58 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:16:58 PM: INFO: 
+
+10/29/2021 01:16:58 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:16:58 PM: INFO: 
+
+10/29/2021 01:16:58 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:16:58 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:16:58 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:16:58 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:16:58 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:16:58 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:16:58 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:16:58 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:16:58 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:16:58 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:16:58 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:16:58 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:17:00 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:17:00 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:17:00 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:17:00 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:17:02 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:17:08 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:17:09 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:17:09 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:17:09 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:17:09 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:17:10 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:17:11 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:17:11 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:17:13 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:17:13 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:18:33 PM: INFO: 
+
+10/29/2021 01:18:33 PM: INFO: 
+
+10/29/2021 01:18:33 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:18:33 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:18:33 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:18:33 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:18:33 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:18:33 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:18:33 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:18:34 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:18:37 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:18:37 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:18:37 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:18:38 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:25:29 PM: INFO: 
+
+10/29/2021 01:25:29 PM: INFO: 
+
+10/29/2021 01:25:29 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:29 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:29 PM: INFO: 
+
+10/29/2021 01:25:29 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:29 PM: INFO: 
+
+10/29/2021 01:25:29 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:29 PM: INFO: 
+
+10/29/2021 01:25:29 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:29 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:29 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:25:29 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:25:29 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:25:30 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:25:30 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:25:36 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:25:37 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:25:38 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:25:38 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:25:38 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:25:38 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:25:39 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:25:39 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:25:41 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:25:42 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:25:53 PM: INFO: 
+
+10/29/2021 01:25:53 PM: INFO: 
+
+10/29/2021 01:25:53 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:53 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:53 PM: INFO: 
+
+10/29/2021 01:25:53 PM: INFO: 
+
+10/29/2021 01:25:53 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:53 PM: INFO: 
+
+10/29/2021 01:25:53 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:53 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:25:53 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:25:53 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:25:53 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:25:53 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:25:54 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:25:54 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:26:00 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:26:00 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:26:00 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:26:00 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:26:00 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:26:00 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:26:02 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:26:02 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:26:03 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:26:03 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:26:19 PM: INFO: 
+
+10/29/2021 01:26:19 PM: INFO: 
+
+== WebDriver manager ======
+10/29/2021 01:26:19 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:26:19 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:26:19 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:26:19 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:26:19 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:26:19 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:26:23 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:26:23 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:26:23 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:26:24 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:26:44 PM: INFO: 
+
+10/29/2021 01:26:44 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:26:44 PM: INFO: 
+
+10/29/2021 01:26:44 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:26:44 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:26:44 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:26:44 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:26:44 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:26:44 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:26:44 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:26:46 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:26:46 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:26:46 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:26:47 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:26:58 PM: INFO: 
+
+10/29/2021 01:26:58 PM: INFO: 
+
+10/29/2021 01:26:58 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:26:58 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:26:58 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:26:58 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:26:58 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:26:58 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:26:58 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:26:58 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:01 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:27:02 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:27:02 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:27:02 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:27:16 PM: INFO: 
+
+10/29/2021 01:27:16 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:16 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:16 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:16 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:16 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:16 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:16 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:17 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:18 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:27:18 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:27:19 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:27:20 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:27:32 PM: INFO: 
+
+10/29/2021 01:27:32 PM: INFO: 
+
+10/29/2021 01:27:32 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:32 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:32 PM: INFO: 
+
+10/29/2021 01:27:32 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:32 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:32 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:32 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:32 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:32 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:32 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:32 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:32 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:32 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:32 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:33 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:33 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:33 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:33 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:33 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:40 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:27:41 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:27:41 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:27:41 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:27:41 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:27:41 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:27:42 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:27:42 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:27:43 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:27:43 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:27:55 PM: INFO: 
+
+10/29/2021 01:27:55 PM: INFO: 
+
+10/29/2021 01:27:55 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:55 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:55 PM: INFO: 
+
+10/29/2021 01:27:55 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:55 PM: INFO: 
+
+10/29/2021 01:27:55 PM: INFO: 
+
+10/29/2021 01:27:55 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:55 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:27:55 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:27:55 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:55 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:55 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:55 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:56 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:27:59 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:27:59 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:27:59 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:27:59 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:27:59 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:27:59 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:27:59 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:28:00 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:28:00 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:28:01 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:28:24 PM: INFO: 
+
+10/29/2021 01:28:24 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:28:24 PM: INFO: 
+
+10/29/2021 01:28:24 PM: INFO: 
+
+10/29/2021 01:28:24 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:28:24 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:28:24 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:28:24 PM: INFO: 
+
+10/29/2021 01:28:24 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:28:26 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:28:26 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:28:26 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:28:26 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:28:26 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:28:26 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:28:26 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:28:26 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:28:26 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:28:26 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:28:26 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:28:26 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:28:26 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:28:26 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:28:27 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:29:12 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:29:12 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:29:12 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:29:12 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:29:12 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:29:12 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:29:13 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:29:13 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:29:18 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:29:19 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:31:39 PM: INFO: 
+
+10/29/2021 01:31:39 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:31:39 PM: INFO: 
+
+10/29/2021 01:31:39 PM: INFO: 
+
+== WebDriver manager ======
+10/29/2021 01:31:39 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:31:39 PM: INFO: 
+
+10/29/2021 01:31:39 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:31:39 PM: INFO: 
+
+10/29/2021 01:31:39 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:31:40 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:31:40 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:31:40 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:31:40 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:31:40 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:31:40 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:31:40 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:31:40 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:31:40 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:31:40 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:31:41 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:31:41 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:31:41 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:31:41 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:31:42 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:31:55 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:31:55 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:31:56 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:31:56 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:31:56 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:31:56 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:32:00 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:32:04 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:32:05 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:32:06 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:32:18 PM: INFO: 
+
+10/29/2021 01:32:18 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:32:18 PM: INFO: 
+
+10/29/2021 01:32:18 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:32:19 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:32:19 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:32:19 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:32:19 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:32:19 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:32:19 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:32:32 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:32:33 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:32:33 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:32:33 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:32:59 PM: INFO: 
+
+10/29/2021 01:32:59 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:32:59 PM: INFO: 
+
+10/29/2021 01:32:59 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:32:59 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:32:59 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:32:59 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:32:59 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:33:00 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:33:00 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:33:12 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:33:12 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:33:12 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:33:13 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:33:34 PM: INFO: 
+
+10/29/2021 01:33:34 PM: INFO: 
+
+10/29/2021 01:33:34 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:33:34 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:33:34 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:33:34 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:33:34 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:33:34 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:33:35 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:33:35 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:33:44 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:33:44 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:33:44 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:33:45 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:34:09 PM: INFO: 
+
+10/29/2021 01:34:09 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:34:09 PM: INFO: 
+
+10/29/2021 01:34:09 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:34:10 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:34:10 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:34:10 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:34:10 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:34:10 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:34:11 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:34:21 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:34:23 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:34:24 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:34:24 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:34:43 PM: INFO: 
+
+10/29/2021 01:34:43 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:34:43 PM: INFO: 
+
+10/29/2021 01:34:43 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:34:43 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:34:43 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:34:43 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:34:43 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:34:43 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:34:44 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:34:52 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:34:52 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:34:54 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:34:55 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:35:16 PM: INFO: 
+
+10/29/2021 01:35:16 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:35:16 PM: INFO: 
+
+10/29/2021 01:35:16 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:35:16 PM: INFO: 
+
+10/29/2021 01:35:16 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:35:16 PM: INFO: 
+
+10/29/2021 01:35:16 PM: INFO: 
+
+10/29/2021 01:35:16 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:35:16 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:35:17 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:35:17 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:35:17 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:35:17 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:35:17 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:35:17 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:35:17 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:35:17 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:35:17 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:35:17 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:35:18 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:35:18 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:35:18 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:35:18 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:35:18 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:35:42 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:35:43 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:35:43 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:35:43 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:35:43 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:35:44 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:35:44 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:35:44 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:35:46 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:35:47 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:36:03 PM: INFO: 
+
+10/29/2021 01:36:03 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:03 PM: INFO: 
+
+10/29/2021 01:36:03 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:03 PM: INFO: 
+
+10/29/2021 01:36:03 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:03 PM: INFO: 
+
+10/29/2021 01:36:03 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:03 PM: INFO: 
+
+10/29/2021 01:36:03 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:04 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:36:04 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:36:04 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:36:04 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:36:04 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:36:04 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:36:04 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:36:04 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:36:04 PM: INFO: Current firefox version is 91.0.2
+10/29/2021 01:36:04 PM: INFO: Get LATEST driver version for 91.0.2
+10/29/2021 01:36:05 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:36:05 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:36:05 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:36:05 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:36:06 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+10/29/2021 01:36:22 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:36:22 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:36:22 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:36:22 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:36:22 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:36:22 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:36:23 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:36:24 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:36:25 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:36:25 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:36:38 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:38 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:38 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:38 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:38 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:36:39 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:36:39 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:36:40 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:36:41 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:36:43 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:36:46 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:36:47 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:36:50 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:36:51 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:36:51 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:36:51 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:36:52 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:36:54 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:36:55 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:36:56 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:37:10 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:37:10 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:37:10 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:37:10 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:37:13 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:37:13 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:37:15 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:37:16 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:37:27 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:37:27 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:37:27 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:37:28 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:37:30 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:37:31 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:37:34 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:37:34 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:37:45 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:37:45 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:37:45 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:37:45 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:37:45 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:37:46 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:37:46 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:37:46 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:37:46 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:37:47 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\edgedriver\win64\95.0.1020.38\msedgedriver.exe] found in cache
+10/29/2021 01:37:48 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:37:48 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:37:54 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:37:54 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:37:56 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:37:56 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:37:56 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:37:57 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:37:58 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:37:59 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:41:39 PM: INFO: 
+
+10/29/2021 01:41:39 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:41:39 PM: INFO: 
+
+10/29/2021 01:41:39 PM: INFO: 
+
+10/29/2021 01:41:39 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:41:39 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:41:39 PM: INFO: 
+
+10/29/2021 01:41:39 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:41:39 PM: INFO: 
+
+10/29/2021 01:41:39 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:41:39 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:41:39 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:41:39 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:41:39 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:41:40 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:41:40 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:41:49 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:41:50 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:41:50 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:41:51 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:41:51 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:41:52 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:41:52 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:41:52 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:41:54 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:41:54 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:47:23 PM: INFO: 
+
+10/29/2021 01:47:23 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:47:23 PM: INFO: 
+
+10/29/2021 01:47:23 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:47:23 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:47:23 PM: INFO: 
+
+10/29/2021 01:47:23 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:47:23 PM: INFO: 
+
+10/29/2021 01:47:23 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:47:23 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:47:23 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:47:23 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:47:24 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:47:24 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:47:24 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:47:32 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:47:33 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:47:35 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:47:35 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:47:37 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:47:37 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:47:37 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:47:38 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:47:40 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:47:41 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 02:32:23 PM: INFO: 
+
+10/29/2021 02:32:23 PM: INFO: ====== WebDriver manager ======
+10/29/2021 02:32:23 PM: INFO: ====== WebDriver manager ======
+10/29/2021 02:32:23 PM: INFO: 
+
+10/29/2021 02:32:23 PM: INFO: ====== WebDriver manager ======
+10/29/2021 02:32:23 PM: INFO: 
+
+10/29/2021 02:32:23 PM: INFO: ====== WebDriver manager ======
+10/29/2021 02:32:23 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 02:32:23 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 02:32:23 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 02:32:23 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 02:32:23 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 02:32:23 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 02:32:23 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 02:32:23 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 02:32:23 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 02:32:23 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 02:32:24 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 02:32:24 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 02:32:40 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 02:32:40 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 02:32:40 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 02:32:40 PM: INFO: starting test case test_login_page_loading
+10/29/2021 02:32:41 PM: INFO: ending test case test_login_page_loading
+10/29/2021 02:32:41 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 02:32:41 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 02:32:44 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
+10/29/2021 02:32:52 PM: INFO: 
+
+10/29/2021 02:32:52 PM: INFO: ====== WebDriver manager ======
+10/29/2021 02:32:52 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 02:32:52 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 02:32:52 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 02:32:55 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 02:32:57 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
