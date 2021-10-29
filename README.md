@@ -22,19 +22,35 @@ pip install pytest-html
 
  `pytest -rA -v -m "smoke or regression" -n 5 --alluredir=allure_report test_cases --browsername chrome`
  
+ `pytest -rA -v -m "smoke or regression" -n 5 --alluredir=allure_report test_cases --browsername headlesschrome`
+ 
  `pytest -rA -v -m "smoke and regression" -n 5 --alluredir=allure_report test_cases --browsername chrome`
+ 
+ `pytest -rA -v -m "smoke and regression" -n 5 --alluredir=allure_report test_cases --browsername headlesschrome`
  
  `pytest -rA -v -m "smoke" -n 5 --alluredir=allure_report test_cases --browsername chrome`
  
+ `pytest -rA -v -m "smoke" -n 5 --alluredir=allure_report test_cases --browsername headlesschrome`
+ 
  `pytest -rA -v -m "regression" -n 5 --alluredir=allure_report test_cases --browsername chrome`
+ 
+ `pytest -rA -v -m "regression" -n 5 --alluredir=allure_report test_cases --browsername headlesschrome`
  
  `pytest -rA -v -m "smoke or regression" -n 5 --alluredir=allure_report test_cases --browsername firefox`
  
+ `pytest -rA -v -m "smoke or regression" -n 5 --alluredir=allure_report test_cases --browsername headlessfirefox`
+ 
  `pytest -rA -v -m "smoke and regression" -n 5 --alluredir=allure_report test_cases --browsername firefox`
+ 
+ `pytest -rA -v -m "smoke and regression" -n 5 --alluredir=allure_report test_cases --browsername headlessfirefox`
  
  `pytest -rA -v -m "smoke" -n 5 --alluredir=allure_report test_cases --browsername firefox`
  
+ `pytest -rA -v -m "smoke" -n 5 --alluredir=allure_report test_cases --browsername headlessfirefox`
+ 
  `pytest -rA -v -m "regression" -n 5 --alluredir=allure_report test_cases --browsername firefox`
+ 
+ `pytest -rA -v -m "regression" -n 5 --alluredir=allure_report test_cases --browsername headlessfirefox`
  
  `pytest -rA -v -m "smoke or regression" -n 5 --alluredir=allure_report test_cases --browsername edge`
  
