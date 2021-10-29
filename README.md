@@ -66,9 +66,11 @@ pip install pytest-html
  
  # Test execution gif
 
+![LmkGTdMsAS](https://user-images.githubusercontent.com/52770689/139401453-976ba5c3-c77f-40ab-8262-85d3cec9e02b.gif)
  
- # Reports:PythonUiAutomationTesting\Reports\report.html 
+ # Allure report screenshots
  
- # Html report screenshot
- ![chrome_XLfsYcJ8hf](https://user-images.githubusercontent.com/52770689/137924093-4609b934-a4e9-46e9-ab61-91865d2e4c28.png)
+![image](https://user-images.githubusercontent.com/52770689/139401838-3bf37da2-a0ed-4367-94ec-21c81c5287f6.png)
+![image](https://user-images.githubusercontent.com/52770689/139401985-19ec382f-aebd-46aa-a9d6-417e8f6b7ed9.png)
+
  
