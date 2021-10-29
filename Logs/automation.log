@@ -2186,3 +2186,39 @@ er_home_page_loading
 10/29/2021 12:56:03 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
 10/29/2021 12:56:04 PM: INFO: starting test case test_login_button_is_displayed
 10/29/2021 12:56:04 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:02:47 PM: INFO: 
+
+10/29/2021 01:02:47 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:02:47 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:02:47 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:02:47 PM: INFO: 
+
+10/29/2021 01:02:47 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:02:47 PM: INFO: 
+
+10/29/2021 01:02:47 PM: INFO: ====== WebDriver manager ======
+10/29/2021 01:02:47 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:02:47 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:02:47 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:02:47 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:02:47 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:02:47 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:02:47 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:02:47 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:02:47 PM: INFO: Current google-chrome version is 95.0.4638
+10/29/2021 01:02:47 PM: INFO: Get LATEST driver version for 95.0.4638
+10/29/2021 01:02:48 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:02:48 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:02:48 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:02:48 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:02:49 PM: INFO: Driver [C:\Users\cyril\.wdm\drivers\chromedriver\win32\95.0.4638.54\chromedriver.exe] found in cache
+10/29/2021 01:03:03 PM: INFO: starting test case test_verify_products_heading_after_home_page_loading
+10/29/2021 01:03:04 PM: INFO: starting test case test_login_page_loading
+10/29/2021 01:03:04 PM: INFO: starting test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:03:04 PM: INFO: ending test case test_login_page_loading
+10/29/2021 01:03:07 PM: INFO: starting test case test_swag_logo_is_displayed
+10/29/2021 01:03:07 PM: INFO: starting test case test_login_button_is_displayed
+10/29/2021 01:03:07 PM: INFO: ending test case test_swag_logo_is_displayed
+10/29/2021 01:03:07 PM: INFO: ending test case test_login_button_is_displayed
+10/29/2021 01:03:09 PM: INFO: ending test case test_verify_your_cart_link_after_home_page_loading
+10/29/2021 01:03:09 PM: INFO: ending test case test_verify_products_heading_after_home_page_loading
