@@ -1,6 +1,3 @@
-from selenium import webdriver
-
-
 class Login_Page:
     textbox_username_id = "user-name"
     textbox_password_id = "password"

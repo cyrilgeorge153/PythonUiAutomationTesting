@@ -1,5 +1,4 @@
 import pytest
-
 from pages.home_page import Home_Page
 from pages.login_page import Login_Page
 from utilities.custom_logger import Generate_Log

@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
@@ -7,7 +6,6 @@ from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from utilities.read_properties import Read_Config
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
-
 
 aut_url = Read_Config.getApplicationURL()
 
@@ -20,17 +18,16 @@ def setup(browser):
         driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
     elif browser == 'edge':
         driver = webdriver.Edge(EdgeChromiumDriverManager().install())
-    elif browser == 'chromeheadless':
+    elif browser == 'headlesschrome':
         options = Options()
         options.headless = True
         driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
-    elif browser == 'firefoxheadless':
+    elif browser == 'headlessfirefox':
         options = FirefoxOptions()
         options.add_argument("--headless")
         driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
     else:
         driver = webdriver.Chrome(ChromeDriverManager().install())
-
     driver.maximize_window()
     driver.get(aut_url)
     driver.implicitly_wait(20)
@@ -39,12 +36,12 @@ def setup(browser):
 
 
 def pytest_addoption(parser):
-    parser.addoption("--browser")
+    parser.addoption("--browsername")
 
 
 @pytest.fixture
 def browser(request):
-    return request.config.getoption("--browser")
+    return request.config.getoption("--browsername")
 
 
 # It is hook for Adding Environment info to HTML Report

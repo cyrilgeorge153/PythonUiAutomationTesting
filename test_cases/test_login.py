@@ -1,7 +1,5 @@
 import pytest
-
 from pages.login_page import Login_Page
-from utilities.read_properties import Read_Config
 from utilities.custom_logger import Generate_Log
 
 
