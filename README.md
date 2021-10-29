@@ -20,32 +20,36 @@ pip install pytest-html
 
 # Execution: Download project to local and open terminal or cmd and execute following commands one by one for respective browser
 
- `pytest -rA -v -m "smoke or regression" -n 5 --html=Reports\report.html test_cases --browser chrome`
+ `pytest -rA -v -m "smoke or regression" -n 5 --alluredir=allure_report test_cases --browsername chrome`
  
- `pytest -rA -v -m "smoke and regression" -n 5 --html=Reports\report.html test_cases --browser chrome`
+ `pytest -rA -v -m "smoke and regression" -n 5 --alluredir=allure_report test_cases --browsername chrome`
  
- `pytest -rA -v -m "smoke" -n 5 --html=Reports\report.html test_cases --browser chrome`
+ `pytest -rA -v -m "smoke" -n 5 --alluredir=allure_report test_cases --browsername chrome`
  
- `pytest -rA -v -m "regression" -n 5 --html=Reports\report.html test_cases --browser chrome`
+ `pytest -rA -v -m "regression" -n 5 --alluredir=allure_report test_cases --browsername chrome`
  
- `pytest -rA -v -m "smoke or regression" -n 5 --html=Reports\report.html test_cases --browser firefox`
+ `pytest -rA -v -m "smoke or regression" -n 5 --alluredir=allure_report test_cases --browsername firefox`
  
- `pytest -rA -v -m "smoke and regression" -n 5 --html=Reports\report.html test_cases --browser firefox`
+ `pytest -rA -v -m "smoke and regression" -n 5 --alluredir=allure_report test_cases --browsername firefox`
  
- `pytest -rA -v -m "smoke" -n 5 --html=Reports\report.html test_cases --browser firefox`
+ `pytest -rA -v -m "smoke" -n 5 --alluredir=allure_report test_cases --browsername firefox`
  
- `pytest -rA -v -m "regression" -n 5 --html=Reports\report.html test_cases --browser firefox`
+ `pytest -rA -v -m "regression" -n 5 --alluredir=allure_report test_cases --browsername firefox`
  
- `pytest -rA -v -m "smoke or regression" -n 5 --html=Reports\report.html test_cases --browser edge`
+ `pytest -rA -v -m "smoke or regression" -n 5 --alluredir=allure_report test_cases --browsername edge`
  
- `pytest -rA -v -m "smoke and regression" -n 5 --html=Reports\report.html test_cases --browser edge`
+ `pytest -rA -v -m "smoke and regression" -n 5 --alluredir=allure_report test_cases --browsername edge`
  
- `pytest -rA -v -m "smoke" -n 5 --html=Reports\report.html test_cases --browser edge`
+ `pytest -rA -v -m "smoke" -n 5 --alluredir=allure_report test_cases --browsername edge`
  
- `pytest -rA -v -m "regression" -n 5 --html=Reports\report.html test_cases --browser edge`
+ `pytest -rA -v -m "regression" -n 5 --alluredir=allure_report test_cases --browsername edge`
+ 
+ # To view allure report use the following command after executing any one of the command in the above section 
+ 
+ `allure serve .\allure_report`
  
  # Test execution gif
- ![nqIfeLb7IV](https://user-images.githubusercontent.com/52770689/137924058-dae2f741-4ee9-46f0-aedb-a88e4879605a.gif)
+
  
  # Reports:PythonUiAutomationTesting\Reports\report.html 
  
