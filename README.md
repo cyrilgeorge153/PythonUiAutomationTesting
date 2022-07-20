@@ -73,4 +73,6 @@ pip install pytest-html
 ![image](https://user-images.githubusercontent.com/52770689/139401838-3bf37da2-a0ed-4367-94ec-21c81c5287f6.png)
 ![image](https://user-images.githubusercontent.com/52770689/139401985-19ec382f-aebd-46aa-a9d6-417e8f6b7ed9.png)
 
+If you find this repository useful, don't forget to give it a ⭐ on GitHub.
+
  
